@@ -27,8 +27,8 @@ Let me know if you’d like to add some flair or highlight specific aspects of y
 <br />
 ___
 
-![Theo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Theodore-Shellman&show_icons=true&theme=radical)
-
+![Theo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Theodore-Shellman&show_icons=true&theme=radical)</br>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theodore-Shellman&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> 
 
 
 
