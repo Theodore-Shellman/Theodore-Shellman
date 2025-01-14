@@ -2,6 +2,10 @@
 ** Professional Software developer **
 # Theodore Shellman 👋
 **`Professional Software developer (Developer/ TripleTen Student/ Explorer at Heart)`**
+<h3 align="left">Connect with me:</h3>
+<p align="center">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/theodoreshellman/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/theodoreshellman/" height="30" width="40" /></a>
+</p>
 
 Hi, I’m a Triple 10 student who thrives on coding and problem-solving! With a knack for innovation and a relentless passion for tech, I craft creative solutions that bridge the gap between ideas and functionality.
 
@@ -11,7 +15,12 @@ I believe that life’s greatest code isn’t written on a screen but discovered
 
 Let me know if you’d like to add some flair or highlight specific aspects of your personality or projects! 
 
----
+---<be><h3 align="center">Willing to relocate</h3>
+
+- 📫 How to reach me **theoshellman@gmail.com**
+
+
+
 
 ### 🧰 Languages and Tools
 
